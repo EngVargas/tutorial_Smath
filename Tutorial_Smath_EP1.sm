@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?application progid="SMath Studio Desktop" version="0.99.7030.1435"?>
+<worksheet xmlns="http://smath.info/schemas/worksheet/1.0">
+  <settings ppi="96">
+    <identity>
+      <id>6d84e0fc-4fdc-4610-a9c2-7d9165ee348d</id>
+      <revision>2</revision>
+    </identity>
+    <calculation>
+      <precision>4</precision>
+      <exponentialThreshold>5</exponentialThreshold>
+      <trailingZeros>false</trailingZeros>
+      <significantDigitsMode>false</significantDigitsMode>
+      <roundingMode>0</roundingMode>
+      <fractions>decimal</fractions>
+    </calculation>
+    <pageModel active="false" viewMode="2" printGrid="false" printAreas="true" simpleEqualsOnly="false" printBackgroundImages="true">
+      <paper id="9" orientation="Portrait" width="827" height="1169" />
+      <margins left="39" right="39" top="49" bottom="49" />
+      <header alignment="Center" color="#a9a9a9">&amp;[DATE] &amp;[TIME] - &amp;[FILENAME]</header>
+      <footer alignment="Center" color="#a9a9a9">&amp;[PAGENUM] / &amp;[COUNT]</footer>
+      <backgrounds />
+    </pageModel>
+    <dependencies>
+      <assembly name="SMath Studio Desktop" version="0.99.7030.1435" guid="a37cba83-b69c-4c71-9992-55ff666763bd" />
+      <assembly name="Math Region" version="0.99.7030.1435" guid="02f1ab51-215b-466e-a74d-5d8b1cf85e8d" />
+      <assembly name="PictureRegion" version="1.10.7030.1435" guid="06b5df04-393e-4be7-9107-305196fcb861" />
+      <assembly name="SpecialFunctions" version="1.12.7030.1435" guid="2814e667-4e12-48b1-8d51-194e480eabc5" />
+      <assembly name="TextRegion" version="1.11.7030.1435" guid="485d28c5-349a-48b6-93be-12a35a1c1e39" />
+      <assembly name="PlotRegion" version="1.11.7030.1435" guid="c451c2b5-798b-4f08-b9ec-b90963d1ddaa" />
+    </dependencies>
+  </settings>
+  <regions type="content">
+    <region id="0" left="9" top="0" width="439" height="86" color="#ff0000" bgColor="#ffff00" fontSize="16">
+      <text lang="por">
+        <p>Rotina de projeto para o Youtube
+Professor Vargas
+UTFPR Pato Branco</p>
+      </text>
+    </region>
+    <region id="1" left="423" top="99" width="192" height="173" color="#000000" bgColor="#ffffff">
+      <picture>
+        <raw format="png" encoding="base64">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</raw>
+      </picture>
+    </region>
+    <region id="2" left="36" top="126" width="154" height="24" color="#000000" bgColor="#ffffff" fontSize="10">
+      <math>
+        <input>
+          <e type="operand">Resistencia</e>
+          <e type="operand">100</e>
+          <e type="operand" style="unit">Ω</e>
+          <e type="operator" args="2">*</e>
+          <e type="operator" args="2">:</e>
+        </input>
+      </math>
+    </region>
+    <region id="3" left="36" top="153" width="138" height="24" color="#000000" bgColor="#ffffff" fontSize="10">
+      <math>
+        <input>
+          <e type="operand">Corrente</e>
+          <e type="operand">77.8</e>
+          <e type="operand" style="unit">A</e>
+          <e type="operator" args="2">*</e>
+          <e type="operator" args="2">:</e>
+        </input>
+      </math>
+    </region>
+    <region id="4" left="36" top="180" width="314" height="24" color="#000000" bgColor="#ffffff" fontSize="10">
+      <math>
+        <input>
+          <e type="operand">Tensao</e>
+          <e type="operand">Resistencia</e>
+          <e type="operand">Corrente</e>
+          <e type="operator" args="2">*</e>
+          <e type="operator" args="2">:</e>
+        </input>
+        <result action="numeric">
+          <e type="operand">7780</e>
+          <e type="operand" style="unit">V</e>
+          <e type="operator" args="2">*</e>
+        </result>
+      </math>
+    </region>
+    <region id="5" left="72" top="324" width="87" height="30" color="#000000" bgColor="#ffffff" fontSize="10">
+      <math>
+        <input>
+          <e type="operand">V.pico</e>
+          <e type="operand">311</e>
+          <e type="operator" args="2">:</e>
+        </input>
+      </math>
+    </region>
+    <region id="6" left="72" top="360" width="283" height="31" color="#000000" bgColor="#ffffff" fontSize="10">
+      <math>
+        <input>
+          <e type="operand">t</e>
+          <e type="function" args="1">TensaoInstantanea</e>
+          <e type="operand">V.pico</e>
+          <e type="operand">t</e>
+          <e type="function" args="1">sin</e>
+          <e type="operator" args="2">*</e>
+          <e type="operator" args="2">:</e>
+        </input>
+      </math>
+    </region>
+    <region id="7" left="72" top="387" width="687" height="244" color="#000000" bgColor="#ffffff" fontSize="10">
+      <plot type="2d" render="lines" scale_x="0.035204594750199" scale_y="0.605412794014159" scale_z="0.035204594750199" rotate_x="0" rotate_y="0" rotate_z="0" transpose_x="-308" transpose_y="0" transpose_z="0">
+        <input>
+          <e type="operand">x</e>
+          <e type="function" args="1">TensaoInstantanea</e>
+        </input>
+      </plot>
+    </region>
+    <region id="8" left="90" top="666" width="510" height="70" color="#000000" bgColor="#ffffff" fontSize="10">
+      <math>
+        <input>
+          <e type="operand">TensaoMedia</e>
+          <e type="operand">1</e>
+          <e type="operand">2</e>
+          <e type="operand">π</e>
+          <e type="operator" args="2">*</e>
+          <e type="operator" args="2">/</e>
+          <e type="operand">t</e>
+          <e type="function" args="1">TensaoInstantanea</e>
+          <e type="operand">t</e>
+          <e type="operand">0</e>
+          <e type="operand">2</e>
+          <e type="operand">π</e>
+          <e type="operator" args="2">*</e>
+          <e type="function" args="4">int</e>
+          <e type="operator" args="2">*</e>
+          <e type="operator" args="2">:</e>
+        </input>
+        <result action="numeric">
+          <e type="operand">8.2094</e>
+          <e type="operand">10</e>
+          <e type="operand">15</e>
+          <e type="operator" args="1">-</e>
+          <e type="operator" args="2">^</e>
+          <e type="operator" args="2">*</e>
+          <e type="operator" args="1">-</e>
+        </result>
+      </math>
+    </region>
+    <region id="9" left="90" top="729" width="468" height="72" color="#000000" bgColor="#ffffff" fontSize="10">
+      <math>
+        <input>
+          <e type="operand">TensaoRMS</e>
+          <e type="operand">1</e>
+          <e type="operand">2</e>
+          <e type="operand">π</e>
+          <e type="operator" args="2">*</e>
+          <e type="operator" args="2">/</e>
+          <e type="operand">t</e>
+          <e type="function" args="1">TensaoInstantanea</e>
+          <e type="operand">2</e>
+          <e type="operator" args="2">^</e>
+          <e type="operand">t</e>
+          <e type="operand">0</e>
+          <e type="operand">2</e>
+          <e type="operand">π</e>
+          <e type="operator" args="2">*</e>
+          <e type="function" args="4">int</e>
+          <e type="operator" args="2">*</e>
+          <e type="function" args="1">sqrt</e>
+          <e type="operator" args="2">:</e>
+        </input>
+        <result action="numeric">
+          <e type="operand">219.9102</e>
+        </result>
+      </math>
+    </region>
+    <region id="10" left="90" top="801" width="241" height="49" color="#000000" bgColor="#ffffff" fontSize="10">
+      <math>
+        <input>
+          <e type="operand">TensãoRMS2</e>
+          <e type="operand">V.pico</e>
+          <e type="operand">2</e>
+          <e type="function" args="1">sqrt</e>
+          <e type="operator" args="2">/</e>
+          <e type="operator" args="2">:</e>
+        </input>
+        <result action="numeric">
+          <e type="operand">219.9102</e>
+        </result>
+      </math>
+    </region>
+  </regions>
+</worksheet>
